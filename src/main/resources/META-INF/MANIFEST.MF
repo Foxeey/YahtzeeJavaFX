@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.example.dicegame.Main
+Class-Path: javafx-base-18-ea+6.jar javafx-fxml-18-ea+6-win.jar javafx-c
+ ontrols-18-ea+6.jar javafx-fxml-18-ea+6.jar javafx-controls-18-ea+6-win
+ .jar javafx-graphics-18-ea+6.jar javafx-base-18-ea+6-win.jar javafx-gra
+ phics-18-ea+6-win.jar
+
